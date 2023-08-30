@@ -1,0 +1,47 @@
+[
+  {
+    "name": "V",
+    "frequency": 165450000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "V",
+    "frequency": 165850000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "COT",
+    "frequency": 469400000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "V",
+    "frequency": 469800000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "V",
+    "frequency": 165050000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "V",
+    "frequency": 165800000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "V",
+    "frequency": 166100000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "sl:pol",
+    "frequency": 167425000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "COT 121",
+    "frequency": 427965000,
+    "modulation": "nxdn"
+  }
+]

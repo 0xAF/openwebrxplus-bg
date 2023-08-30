@@ -1,0 +1,272 @@
+[
+  {
+    "name": "APP-Varna:LBWN",
+    "frequency": 309025000,
+    "modulation": "am"
+  },
+  {
+    "name": "TWR-Varna:LBWN",
+    "frequency": 377600000,
+    "modulation": "am"
+  },
+  {
+    "name": "TWR-Varna:LBWN",
+    "frequency": 119500000,
+    "modulation": "am"
+  },
+  {
+    "name": "APP-Varna:???",
+    "frequency": 121000000,
+    "modulation": "am"
+  },
+  {
+    "name": "CHAIKA:025",
+    "frequency": 123025000,
+    "modulation": "am"
+  },
+  {
+    "name": "CHAIKA:050",
+    "frequency": 123050000,
+    "modulation": "am"
+  },
+  {
+    "name": "APP-Varna:LBWN",
+    "frequency": 124600000,
+    "modulation": "am"
+  },
+  {
+    "name": "ATIS-Varna:LBWN",
+    "frequency": 126875000,
+    "modulation": "am"
+  },
+  {
+    "name": "TWR-Varna:LBWN",
+    "frequency": 128050000,
+    "modulation": "am"
+  },
+  {
+    "name": "AIR",
+    "frequency": 128650000,
+    "modulation": "am"
+  },
+  {
+    "name": "Varna:LBWN",
+    "frequency": 134700000,
+    "modulation": "am"
+  },
+  {
+    "name": "Balchik",
+    "frequency": 122155000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 125575000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 131125000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 132775000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 132324999,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 131824999,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 131725000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 132375000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 133550000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 137100000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 130300000,
+    "modulation": "am"
+  },
+  {
+    "name": "SOS",
+    "frequency": 121500000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 132949999,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 135175000,
+    "modulation": "am"
+  },
+  {
+    "name": "Sofia-East:Botev",
+    "frequency": 129100000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 130400000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 123175000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 121175000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 122600000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 122530000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 125100000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 128725000,
+    "modulation": "am"
+  },
+  {
+    "name": "VOLMET-Sofia:Botev",
+    "frequency": 126600000,
+    "modulation": "am"
+  },
+  {
+    "name": "ATIS-Burgas:LBBG",
+    "frequency": 126975000,
+    "modulation": "am"
+  },
+  {
+    "name": "ATIS-Varna:LBWN",
+    "frequency": 128923000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 128800000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 132550000,
+    "modulation": "am"
+  },
+  {
+    "name": "Balchik:LBWB",
+    "frequency": 121125000,
+    "modulation": "am"
+  },
+  {
+    "name": "Varna-Izgrev:LBWV",
+    "frequency": 122450000,
+    "modulation": "am"
+  },
+  {
+    "name": "APP-Varna:LBWN",
+    "frequency": 130449999,
+    "modulation": "am"
+  },
+  {
+    "name": "VOR-Burgas:BGS",
+    "frequency": 112000000,
+    "modulation": "am"
+  },
+  {
+    "name": "VOR-Varna:WRN",
+    "frequency": 112400000,
+    "modulation": "am"
+  },
+  {
+    "name": "VOR-Emine:EMO",
+    "frequency": 113650000,
+    "modulation": "am"
+  },
+  {
+    "name": "TWR-Varna:LBWN",
+    "frequency": 118900000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 119300000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 127050000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 130150000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 132475000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 135021500,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 131221499,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 126425000,
+    "modulation": "am"
+  },
+  {
+    "name": "V",
+    "frequency": 126300000,
+    "modulation": "am"
+  },
+  {
+    "name": "ATIS:ISTANBUL",
+    "frequency": 126350000,
+    "modulation": "am"
+  }
+]

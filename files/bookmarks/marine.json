@@ -1,0 +1,132 @@
+[
+  {
+    "name": "1",
+    "frequency": 156050000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "2",
+    "frequency": 156100000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "3",
+    "frequency": 156150000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "4",
+    "frequency": 156200000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "5",
+    "frequency": 156250000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "6",
+    "frequency": 156300000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "7",
+    "frequency": 156350000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "8",
+    "frequency": 156400000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "9",
+    "frequency": 156450000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "10",
+    "frequency": 156500000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "11",
+    "frequency": 156550000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "12",
+    "frequency": 156600000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "13",
+    "frequency": 156650000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "14",
+    "frequency": 156700000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "15",
+    "frequency": 156750000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "16:SOS",
+    "frequency": 156800000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "17",
+    "frequency": 156850000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "68",
+    "frequency": 156425000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "72",
+    "frequency": 156625000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "73",
+    "frequency": 156675000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "77",
+    "frequency": 156875000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "78A",
+    "frequency": 156925000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "79A",
+    "frequency": 156975000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "MARINE BUL.",
+    "frequency": 161900000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "V",
+    "frequency": 160975000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "V",
+    "frequency": 161050000,
+    "modulation": "nfm"
+  }
+]

@@ -1,0 +1,678 @@
+{
+    "version": 7,
+    "receiver_name": "0xAF SDR ",
+    "receiver_location": "Varna, Bulgaria",
+    "receiver_asl": 170,
+    "receiver_admin": "af@0xaf.org",
+    "receiver_gps": {
+        "lat": 43.226905772463894,
+        "lon": 27.959053532810174
+    },
+    "photo_title": "0xAF Home SDR",
+    "photo_desc": "<div class=\"receiver-info-in-title\">\r\nReceiver is operated by: <a href=\"mailto:af@0xAF.org\" target=\"_blank\">LZ2SLL</a><br/>\r\n<br><br>\r\nDevice: RTL-SDR<br />\r\nAntenna: Diamond X-300<br />\r\nWebsite: <a href=\"https://varna.radio\" target=\"_blank\">varna.radio</a>\r\n</div>\r\n",
+    "max_clients": 5,
+    "receiver_keys": [
+        ""
+    ],
+    "waterfall_scheme": "CustomWaterfall",
+    "fft_fps": 9,
+    "fft_size": 4096,
+    "fft_voverlap_factor": 0.3,
+    "waterfall_levels": {
+        "min": -88.0,
+        "max": -20.0
+    },
+    "waterfall_auto_levels": {
+        "min": 3.0,
+        "max": 10.0
+    },
+    "waterfall_auto_min_range": 50,
+    "audio_compression": "adpcm",
+    "fft_compression": "adpcm",
+    "tuning_precision": 2,
+    "google_maps_api_key": "",
+    "map_position_retention_time": 7200,
+    "sdrs": {
+        "rtlsdr": {
+            "name": "[1]",
+            "type": "rtl_sdr",
+            "profiles": {
+                "438": {
+                    "name": "438-440 HAM 70cm R out",
+                    "center_freq": 438850000,
+                    "rf_gain": 25.0,
+                    "samp_rate": 2048000,
+                    "start_freq": 438300000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -65,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "lfo_offset": 650
+                },
+                "430": {
+                    "name": "430-432 HAM 70cm R in",
+                    "center_freq": 431000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 430700000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -70,
+                    "rf_gain": 22.0,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "lfo_offset": 650
+                },
+                "144": {
+                    "name": "144-146 HAM 2m",
+                    "center_freq": 145010000,
+                    "samp_rate": 2048000,
+                    "start_freq": 145775000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -62,
+                    "waterfall_levels": {
+                        "min": -85.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 22.0,
+                    "lfo_offset": -1000,
+                    "tuning_step": 1
+                },
+                "432": {
+                    "name": "432-434 HAM",
+                    "rf_gain": 25.0,
+                    "center_freq": 433000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 433300000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -69,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "lfo_offset": 650
+                },
+                "434": {
+                    "name": "434-436 HAM",
+                    "center_freq": 435000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 435235000,
+                    "start_mod": "nfm",
+                    "rf_gain": 25.0,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "initial_squelch_level": -69,
+                    "lfo_offset": 650
+                },
+                "436": {
+                    "name": "436-438 HAM",
+                    "center_freq": 437000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 436600000,
+                    "start_mod": "nfm",
+                    "rf_gain": 25.0,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "initial_squelch_level": -68,
+                    "lfo_offset": 650
+                },
+                "440": {
+                    "name": "440-442",
+                    "center_freq": 441000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 441000000,
+                    "start_mod": "nfm",
+                    "rf_gain": 25.0,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "initial_squelch_level": -68,
+                    "lfo_offset": 650
+                },
+                "PMR": {
+                    "name": "446 PMR",
+                    "center_freq": 446100000,
+                    "samp_rate": 1000000,
+                    "start_freq": 446006250,
+                    "start_mod": "nfm",
+                    "rf_gain": 25.0,
+                    "initial_squelch_level": -69,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "lfo_offset": 650
+                },
+                "428": {
+                    "name": "428-430 HAM",
+                    "rf_gain": 25.0,
+                    "center_freq": 428000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 427960000,
+                    "start_mod": "nxdn",
+                    "initial_squelch_level": -69,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "lfo_offset": 650
+                },
+                "473": {
+                    "name": "473-475",
+                    "center_freq": 474000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 473800000,
+                    "start_mod": "nfm",
+                    "rf_gain": 25.0,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "initial_squelch_level": -68,
+                    "lfo_offset": 650
+                },
+                "111": {
+                    "name": "111-113 AIR",
+                    "center_freq": 112000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 112500000,
+                    "start_mod": "am",
+                    "initial_squelch_level": -62,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0
+                },
+                "117": {
+                    "name": "117-119 AIR",
+                    "center_freq": 118000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 118923000,
+                    "start_mod": "am",
+                    "initial_squelch_level": -62,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0
+                },
+                "119": {
+                    "name": "119-121 AIR",
+                    "center_freq": 120000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 119500000,
+                    "start_mod": "am",
+                    "initial_squelch_level": -62,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0
+                },
+                "121": {
+                    "name": "121-123 AIR",
+                    "center_freq": 122000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 121500000,
+                    "start_mod": "am",
+                    "initial_squelch_level": -62,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0
+                },
+                "123": {
+                    "name": "123-125 AIR",
+                    "center_freq": 124000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 124600000,
+                    "start_mod": "am",
+                    "initial_squelch_level": -62,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0
+                },
+                "125": {
+                    "name": "125-127 AIR",
+                    "center_freq": 126000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 126875000,
+                    "start_mod": "am",
+                    "initial_squelch_level": -62,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0
+                },
+                "127": {
+                    "name": "127-129 AIR",
+                    "center_freq": 128000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 128923000,
+                    "start_mod": "am",
+                    "initial_squelch_level": -62,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0
+                },
+                "129": {
+                    "name": "129-131 AIR",
+                    "center_freq": 130000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 130000000,
+                    "start_mod": "am",
+                    "initial_squelch_level": -62,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0
+                },
+                "131": {
+                    "name": "131-133 AIR",
+                    "center_freq": 132000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 132000000,
+                    "start_mod": "am",
+                    "initial_squelch_level": -62,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0
+                },
+                "133": {
+                    "name": "133-135 AIR",
+                    "center_freq": 134000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 134700000,
+                    "start_mod": "am",
+                    "initial_squelch_level": -62,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0
+                },
+                "135": {
+                    "name": "135-137 AIR",
+                    "center_freq": 136000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 136000000,
+                    "start_mod": "am",
+                    "initial_squelch_level": -62,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0
+                },
+                "150": {
+                    "name": "150-152 BDZ",
+                    "center_freq": 151000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 150850000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -62,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0
+                },
+                "153": {
+                    "name": "153-155 COT",
+                    "center_freq": 154000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 154000000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -65,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0,
+                    "lfo_offset": 650
+                },
+                "155": {
+                    "name": "155-157 MAR",
+                    "center_freq": 156000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 156800000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -65,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0,
+                    "lfo_offset": 600
+                },
+                "157": {
+                    "name": "157-159 MAR",
+                    "center_freq": 158000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 158500000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -65,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0,
+                    "lfo_offset": 600
+                },
+                "159": {
+                    "name": "159-161 MAR",
+                    "center_freq": 160000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 160975000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -65,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0,
+                    "lfo_offset": 600
+                },
+                "161": {
+                    "name": "161-163 MAR",
+                    "center_freq": 162000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 161050000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -65,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0,
+                    "lfo_offset": 600
+                },
+                "163": {
+                    "name": "163-165 MAR",
+                    "center_freq": 164000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 164500000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -66,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0,
+                    "lfo_offset": 600
+                },
+                "165": {
+                    "name": "165-167 POL",
+                    "center_freq": 166000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 166100000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -65,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0,
+                    "lfo_offset": 600
+                },
+                "167": {
+                    "name": "167-169 MAR",
+                    "center_freq": 168000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 168500000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -65,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0,
+                    "lfo_offset": 600
+                },
+                "169": {
+                    "name": "169-171 MAR",
+                    "center_freq": 170000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 170500000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -65,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0,
+                    "lfo_offset": 600
+                },
+                "171": {
+                    "name": "171-173 MAR",
+                    "center_freq": 172000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 172500000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -66,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0,
+                    "lfo_offset": 600
+                },
+                "173": {
+                    "name": "173-175 MAR",
+                    "center_freq": 174000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 174500000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -65,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0,
+                    "lfo_offset": 600
+                },
+                "308": {
+                    "name": "308-310 AIR",
+                    "center_freq": 309000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 309025000,
+                    "start_mod": "am",
+                    "initial_squelch_level": -65,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0,
+                    "lfo_offset": 600
+                },
+                "376": {
+                    "name": "376-378 AIR",
+                    "center_freq": 377000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 377600000,
+                    "start_mod": "am",
+                    "initial_squelch_level": -65,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "rf_gain": 25.0,
+                    "lfo_offset": 600
+                },
+                "457": {
+                    "name": "457-459",
+                    "center_freq": 458000000,
+                    "rf_gain": 25.0,
+                    "samp_rate": 2048000,
+                    "start_freq": 457550000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -70,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "lfo_offset": 650
+                },
+                "459": {
+                    "name": "459-461",
+                    "center_freq": 460000000,
+                    "rf_gain": 25.0,
+                    "samp_rate": 2048000,
+                    "start_freq": 459399000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -70,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "lfo_offset": 650
+                },
+                "468": {
+                    "name": "468-470 COT",
+                    "center_freq": 469000000,
+                    "rf_gain": 25.0,
+                    "samp_rate": 2048000,
+                    "start_freq": 469400000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -69,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "lfo_offset": 650
+                },
+                "867": {
+                    "name": "867-869",
+                    "center_freq": 868000000,
+                    "rf_gain": 25.0,
+                    "samp_rate": 2048000,
+                    "start_freq": 868500000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -68,
+                    "waterfall_levels": {
+                        "min": -88.0,
+                        "max": -20.0
+                    },
+                    "lfo_offset": 600
+                },
+                "49": {
+                    "name": "test",
+                    "center_freq": 25000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 403920000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -68,
+                    "waterfall_levels": {
+                        "min": -84.0,
+                        "max": -15.0
+                    },
+                    "rf_gain": 25.0,
+                    "tuning_step": 1
+                },
+                "5055e434-d54c-4898-82fc-06983ba45ec2": {
+                    "name": "447-449MHz COT",
+                    "rf_gain": 20.0,
+                    "lfo_offset": 500,
+                    "center_freq": 448000000,
+                    "samp_rate": 2048000,
+                    "start_freq": 448500000,
+                    "start_mod": "nfm",
+                    "initial_squelch_level": -68
+                }
+            },
+            "services": true,
+            "always-on": true,
+            "scheduler": {
+                "type": "static",
+                "schedule": {
+                    "0000-0000": "144"
+                }
+            },
+            "lfo_offset": 1,
+            "rtltcp_compat": 1234,
+            "ppm": -12,
+            "key_locked": false
+        },
+        "rsp1": {
+            "name": "[2]",
+            "type": "sdrplay",
+            "profiles": {
+                "10": {
+                    "name": "0-10",
+                    "center_freq": 4500000,
+                    "samp_rate": 10000000,
+                    "start_freq": 3000000,
+                    "start_mod": "nfm",
+                    "tuning_step": 1
+                }
+            },
+            "always-on": true
+        }
+    },
+    "services_enabled": true,
+    "services_decoders": [
+        "ft8",
+        "wspr",
+        "packet"
+    ],
+    "aprs_igate_enabled": false,
+    "aprs_callsign": "LZ2SLL",
+    "aprs_igate_server": "euro.aprs2.net",
+    "aprs_igate_password": "16807",
+    "aprs_igate_beacon": true,
+    "aprs_igate_symbol": "R&",
+    "aprs_igate_comment": "OpenWebRX APRS gateway",
+    "pskreporter_enabled": false,
+    "pskreporter_callsign": "N0CALL",
+    "wsprnet_enabled": false,
+    "wsprnet_callsign": "N0CALL",
+    "aprs_igate_height": "170",
+    "aprs_igate_gain": "7",
+    "keep_files": 20,
+    "session_timeout": 0,
+    "usage_policy_url": "policy",
+    "allow_audio_recording": true,
+    "allow_center_freq_changes": true,
+    "magic_key": "power",
+    "ui_opacity": 100,
+    "ui_frame": true,
+    "ui_swap_wheel": true,
+    "map_ignore_indirect_reports": false,
+    "map_prefer_recent_reports": true,
+    "callsign_url": "https://www.qrzcq.com/call/{}",
+    "vessel_url": "https://www.vesselfinder.com/vessels/details/{}",
+    "flight_url": "https://flightaware.com/live/flight/{}",
+    "waterfall_colors": [
+        32,
+        48,
+        80,
+        145,
+        2003199,
+        16777215,
+        16776960,
+        16674070,
+        16711680,
+        12976128,
+        10420224,
+        7667712,
+        4849664
+    ],
+    "map_type": "leaflet"
+}

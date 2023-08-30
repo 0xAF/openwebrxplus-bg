@@ -1,0 +1,97 @@
+[
+  {
+    "name": "Uplink:R7",
+    "frequency": 430340000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "S",
+    "frequency": 145450000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "S",
+    "frequency": 145475000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "S",
+    "frequency": 145500000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "S",
+    "frequency": 433500000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "S",
+    "frequency": 435235000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "S",
+    "frequency": 436600000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "SSB-2m",
+    "frequency": 144300000,
+    "modulation": "usb"
+  },
+  {
+    "name": "Beacon:Provadia",
+    "frequency": 144440000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "Beacon:Burgas",
+    "frequency": 144435000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "ISS",
+    "frequency": 145800000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "IN:ISS",
+    "frequency": 145200000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "Packet:ISS",
+    "frequency": 145825000,
+    "modulation": "packet"
+  },
+  {
+    "name": "Packet:ISS",
+    "frequency": 437550000,
+    "modulation": "packet"
+  },
+  {
+    "name": "ISS",
+    "frequency": 437800000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "IN:ISS",
+    "frequency": 145990000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "ISS:OUT",
+    "frequency": 473800000,
+    "modulation": "nfm"
+  },
+  {
+    "name": "DMR",
+    "frequency": 459338000,
+    "modulation": "dmr"
+  },
+  {
+    "name": "DMR",
+    "frequency": 459550000,
+    "modulation": "dmr"
+  }
+]
