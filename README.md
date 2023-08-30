@@ -1,5 +1,5 @@
 # openwebrxplus-bg
-Docker image for [OpenWebRX+](https://github.com/luarvique/openwebrx) customized for use in Bularia.
+Docker image for [OpenWebRX+](https://github.com/luarvique/openwebrx) customized for use in Bulgaria.
 Added custom bookmarks and map features.
 The image is based on [openwebrx-softmbe](https://hub.docker.com/r/slechev/openwebrxplus-softmbe),
 hence includes codecserver-softmbe (mbelib), enabling DMR, D-Star, YSF, FreeDV, DRM, NXDN and other Digital modes.
