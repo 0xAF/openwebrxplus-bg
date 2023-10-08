@@ -80,14 +80,14 @@
     "modulation": "am"
   },
   {
-    "name": "V",
-    "frequency": 131824999,
-    "modulation": "am"
+    "name": "ACARS",
+    "frequency": 131725000,
+    "modulation": "acars"
   },
   {
-    "name": "V",
-    "frequency": 131725000,
-    "modulation": "am"
+    "name": "ACARS",
+    "frequency": 131825000,
+    "modulation": "acars"
   },
   {
     "name": "V",
