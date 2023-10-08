@@ -90,6 +90,21 @@
     "modulation": "acars"
   },
   {
+    "name": "ACARS",
+    "frequency": 131850000,
+    "modulation": "acars"
+  },
+  {
+    "name": "ACARS",
+    "frequency": 131550000,
+    "modulation": "acars"
+  },
+  {
+    "name": "ACARS",
+    "frequency": 131525000,
+    "modulation": "acars"
+  },
+  {
     "name": "V",
     "frequency": 132375000,
     "modulation": "am"
