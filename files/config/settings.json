@@ -283,7 +283,7 @@
                     "rf_gain": 25.0
                 },
                 "131": {
-                    "name": "131-133 AIR",
+                    "name": "131-133 AIR-ACARS",
                     "center_freq": 132000000,
                     "samp_rate": 2048000,
                     "start_freq": 132000000,
