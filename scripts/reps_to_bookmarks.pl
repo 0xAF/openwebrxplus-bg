@@ -4,7 +4,7 @@ use JSON;
 # use DDP;
 
 my $repsjson = join("", <STDIN>);
-
+$repsjson =~ s/^\xEF\xBB\xBF//; # remove BOM
 my $repshash = JSON->new->decode($repsjson);
 my $reps     = $repshash->{repeaters};
 
